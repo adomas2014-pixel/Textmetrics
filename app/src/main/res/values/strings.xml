@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Text Metrics</string>
+    <string name="screen_title">Text metrics</string>
+
+    <string name="input_hint">Enter your text here</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="button_generate">Generate test sentence</string>
+
+    <string name="error_empty_input">The input field is empty. Please enter some text.</string>
+
+    <string name="result_format">Sentences: %1$d\nWords: %2$d\nCharacters (with spaces and punctuation): %3$d\nNumbers: %4$d</string>
+
+    <string name="history_title">History</string>
+    <string name="history_empty">No calculations yet.</string>
+    <string name="history_entry">“%1$s” =&gt; %2$d, %3$d, %4$d, %5$d</string>
+
+    <string-array name="sample_sentences">
+        <item>Today it has been raining in Kaunas for three hours.</item>
+        <item>How much do 3 coffee cups and 2 cookies cost?</item>
+        <item>I bought 3 apples and 12 buns at the shop.</item>
+        <item>Hooray! The exam was passed with a score of 9.</item>
+        <item>My phone number is 861234567.</item>
+        <item>Sad but true: the year 2026 passed very quickly.</item>
+        <item>The thermometer shows 21.5 degrees today.</item>
+        <item>Good morning!</item>
+        <item>Programming is interesting, but it takes patience.</item>
+        <item>Vilnius, Kaunas and Klaipeda are the three largest cities in Lithuania.</item>
+    </string-array>
+</resources>

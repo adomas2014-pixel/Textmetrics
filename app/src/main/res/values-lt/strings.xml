@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teksto metrikos</string>
+    <string name="screen_title">Teksto metrikos</string>
+
+    <string name="input_hint">Įveskite tekstą čia</string>
+    <string name="button_calculate">Skaičiuoti</string>
+    <string name="button_generate">Sugeneruoti testinį sakinį</string>
+
+    <string name="error_empty_input">Įvesties laukas tuščias. Įveskite tekstą.</string>
+
+    <string name="result_format">Sakinių skaičius: %1$d\nŽodžių skaičius: %2$d\nRašybos ženklų skaičius: %3$d\nSkaičių skaičius: %4$d</string>
+
+    <string name="history_title">Istorija</string>
+    <string name="history_empty">Skaičiavimų dar nėra.</string>
+    <string name="history_entry">„%1$s“ =&gt; %2$d, %3$d, %4$d, %5$d</string>
+
+    <string-array name="sample_sentences">
+        <item>Šiandien Kaune lyja jau trečią valandą.</item>
+        <item>Kiek kainuoja 3 kavos puodeliai ir 2 sausainiai?</item>
+        <item>Parduotuvėje nusipirkau 3 obuolius ir 12 bandelių.</item>
+        <item>Valio! Egzaminas išlaikytas 9 balais.</item>
+        <item>Mano telefono numeris – 861234567.</item>
+        <item>Liūdna, bet tiesa: 2026 metai prabėgo labai greitai.</item>
+        <item>Šiandien termometras rodo 21,5 laipsnio šilumos.</item>
+        <item>Labas rytas!</item>
+        <item>Programavimas yra įdomus, bet reikalauja kantrybės.</item>
+        <item>Vilnius, Kaunas ir Klaipėda – trys didžiausi Lietuvos miestai.</item>
+    </string-array>
+</resources>
